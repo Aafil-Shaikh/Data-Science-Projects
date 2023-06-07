@@ -12,7 +12,7 @@ Feel free to navigate to the respective folders to explore the projects and gain
 
 ## Projects
 
-1. Project 1: [Car DataSet Analysis](/excel-dashboards/Car Dataset Analysis/README.md)
+1. Project 1: [Car DataSet Analysis](/excel-dashboards/Car-Dataset-Analysis)
    - Description: Aim to analyze data related to cars and an generate an interactive dashboard.
    - Techniques used: Data Cleaning, Pivot Tables, Pivot Charts
 
